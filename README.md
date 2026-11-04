@@ -21,7 +21,7 @@ I am solving LeetCode problems to strengthen my problem-solving skills and prepa
 
 | Topic | Problems Solved |
 |---|---:|
-| Arrays | 0 |
+| Arrays | 1 |
 | Strings | 0 |
 | Linked List | 0 |
 | Stack | 0 |
